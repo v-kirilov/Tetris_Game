@@ -10,7 +10,7 @@ namespace TetrisApp
     {   //Settings 
         static int TetrisRows = 20;
         static int TetrisCols = 10;
-        static int InfoCols = 10;
+        static int InfoCols = 12;
         static int ConsoleRows = 1 + TetrisRows + 1;
         static int ConsoleCols = 1 + TetrisCols + 1 + InfoCols + 1;
         static List<bool[,]> TetrisFigures = new List<bool[,]>()
