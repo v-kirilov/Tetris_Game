@@ -7,7 +7,7 @@ using System.Threading;
 namespace TetrisApp
 {
     internal class Program
-    {   //Settings
+    {   //Settings 
         static int TetrisRows = 20;
         static int TetrisCols = 10;
         static int InfoCols = 10;
